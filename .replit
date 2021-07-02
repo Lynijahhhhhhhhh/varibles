@@ -1,2 +1,2 @@
 language = "undefined"
-run = "python variables_tertiary.py"
+run = "python challenge.py"

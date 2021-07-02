@@ -129,7 +129,8 @@ nameAnimal= name + animal
 acronym= "LMA"*1 + "O"*13
 num1= 3
 num1-= favNum
-favNumSquared= favNum**2
+favNum=favNum**2
+ 
 
 blank()
 print("This is the sum of two numbers", sum1)

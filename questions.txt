@@ -30,8 +30,7 @@ yes you can reassign
 
 5) Does using the variable in an operation cause the variable's value to change? How can you cause a variable's value
     to change?
-x=5
-x+= 20/3 
+No the variable does not change.  
 
 
 6) Why do we use variables, what is their purpose?
