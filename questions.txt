@@ -1,19 +1,21 @@
-name: <name here>
-date: <date here>
+name: Lynijah
+date: 07-02-2021
 
 1) What is a variable?
-
+Sonething you store in your programs memory to grab later
 
 
 2) Are variable names case-sensitive? Is a variable named a the same as a variable named A?
-
+They are case sensitive and no they are not the same.
 
 
 3) What characters are you allowed to use in a variable name?
+letters, underscores and numbers (when not first)
 
 
 
 3) Can a variable that originally holds a string hold a different type later on?
+yes you can reassign 
 
 
 
@@ -21,20 +23,24 @@ date: <date here>
     x = 5
     y = x
    What is the value of y?
+   yes you can and the value of y is now 5 
+
 
 
 
 5) Does using the variable in an operation cause the variable's value to change? How can you cause a variable's value
     to change?
-
+x=5
+x+= 20/3 
 
 
 6) Why do we use variables, what is their purpose?
-
+To store specific things without having to retype them. like instead of saying 20*3/4+3 a bunch of times, we can assign a variable to that expression and just type that. It simplifies code.
 
 
 7) What is the difference between a literal and a variable?
-
+A literal is what is literally there. like this "hey" but if i made "hey" a varible i could name it bye. It wont literally be bye, because bye is just holding "hey" in there.
 
 
 8) Why are we allowed to write the code x = x + 5, when in math this would be a contradiction?
+because in math we  are usually  solving for the unknown and you cant find the unknown with the unknown as a helper because... umm who are you?? lol, so that definetly wont work.but in python, we already assigned x to something, so we know what x is and can alter it however we choose. 

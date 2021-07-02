@@ -1,5 +1,5 @@
-# author: <name here>
-# date: <date here>
+# author: Lynijah
+# date: 07-02-2021
 #
 # description: <fill in>
 
@@ -45,4 +45,10 @@
 #       - Addition with itself and an equation
 #           - Example Equation: ((10 - 2) * (4 + 3) - 1) * 15
 #
+x=500000
+x+= 2
+x-= 30
+x*= 2
+x/=10000
+x+= ((11 - 5) * (10 + 90)
 

@@ -1,13 +1,14 @@
-# author: <name here>
-# date: <date here>
+# author: Lynijah
+# date: 07-02-2021
 #
-# description: <fill in>
+# description: doing zeee variables
 
 # Choose a song that you enjoy listening to. For this song you should pull up the lyrics.
 # I suggest using Genius since it breaks down the song's structure into its individual parts.
 
 # --------------- Section 3 --------------- #
-
+def blank():
+    return print(" ")
 # 3.1
 # Variables
 #   1) Create a variable to represent each part of the song. By parts, I mean the verses, chorus, bridges, etc. Each
@@ -32,8 +33,17 @@ example_verse = (
 )
 
 # WRITE CODE BELOW
+chorus="Maybe I’m not pretty,\nmaybe I’m just fun\n‘Cause I got a belly and I got a bum\nAnd I’m f*cking jelly of all the other ones\nWith their itty bitty bellies\nand their rump-ump-ump-ums"
 
+verse1="I know that I should love myself\nBut it’s getting kinda hard when you’re constantly feeling like garbage\nKnow I shouldn’t hurt myself\nBut I can’t find a way to lose weight without literally starving"
 
+preChorus="Every other song says I’m beautiful\nBut what if I don’t feel like I’m beautiful?\nI wish my body image didn’t say\nThat I should be another kinda way"
+
+newChorus="Maybe I’m not pretty, maybe I’m just fun\n'Cause I got a belly and I got a bum\nBut I can’t be jelly of all the other ones\nSo I’m falling in lovе with my rump-ump-ump-um"
+
+verse2="I’m not gonna ask for help\n‘Cause all you’re gonna say is\n“You’rе perfect and oh, you’re so worth it”\nBut sometimes I hate myself\nI get inside my head and I think that I somehow deserve this"
+
+outro="I’m not pretty\nI’m not pretty\nSo I’m falling in love with my rump-ump-ump-um"
 # 3.2
 # Print
 #   1) Print the variables out so that they form the song in correct order when outputted to the terminal.
@@ -43,3 +53,18 @@ example_verse = (
 #
 # WRITE CODE BELOW
 
+print(chorus)
+blank
+print(verse1)
+blank()
+print(preChorus)
+blank()
+print(newChorus)
+blank()
+print(verse2)
+blank()
+print(preChorus)
+blank()
+print(newChorus)
+blank()
+print(outro)
